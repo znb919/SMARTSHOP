@@ -1,4 +1,4 @@
-# 🛒 SmartShop Pro — A Multiplatform Shopping List App
+# 🛒 SMARTSHOP– A Full-Stack Flutter Web App!
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -18,8 +18,15 @@ Designed for efficiency, it features automated background email reporting and a 
 ---
 
 <p align="center">
-  <img src="page1.png" width="45%" />
-  <img src="homescreen.png" width="45%" /> 
+  <img src="screenshots/home-page.PNG" width="80%" />
+  <img src="screenshots/page1.PNG".png" width="80%" /> 
+  <img src="screenshots/page2.PNG".png" width="80%" />
+  <img src="screenshots/page3.PNG".png" width="80%" />
+  <img src="screenshots/page4.PNG".png" width="80%" />
+  <img src="screenshots/page5.PNG".png" width="80%" />
+  <img src="screenshots/page6.PNG".png" width="80%" />
+  <img src="screenshots/page7.PNG".png" width="80%" />
+  <img src="screenshots/page8.PNG".png" width="80%" />
 </p>
 
 ## 🚀 Features
